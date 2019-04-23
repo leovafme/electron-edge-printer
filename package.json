@@ -9,7 +9,7 @@
   "dependencies": {
     "crypto": "0.0.3",
     "electron": "1.4.13",
-    "electron-edge-js": "^6.5.3",
+    "electron-edge-js": "^10.11.1",
     "filewatcher": "^3.0.1",
     "os": "^0.1.1",
     "q": "^1.4.1",
