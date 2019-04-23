@@ -1,5 +1,5 @@
 
-var edge = require('electron-edge');
+var edge = require('electron-edge-js');
 
 var PrintersAPI={};
 
